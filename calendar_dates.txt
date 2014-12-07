@@ -1,0 +1,6 @@
+service_id,date,exception_type
+SUN,2011-08-31,1
+SAT,2011-08-31,2
+FRI,2011-08-31,2
+MONTHR,2011-08-31,2
+MONFRI,2011-08-31,2

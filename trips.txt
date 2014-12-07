@@ -1,0 +1,1142 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible
+MONFRI1,6,MONFRI,Maluri,,1,,,0
+SAT1,6,SAT,Maluri,,1,,,0
+SUN1,6,SUN,Maluri,,1,,,0
+MONFRI2,6,MONFRI,KL Sentral,,0,,,0
+SAT2,6,SAT,KL Sentral,,0,,,0
+SUN2,6,SUN,KL Sentral,,0,,,0
+MONFRI3,5,MONFRI,KLCC,,0,,3,0
+SAT3,5,SAT,KLCC,,0,,3,0
+SUN3,5,SUN,KLCC,,0,,3,0
+MONFRI4,5,MONFRI,Titiwangsa,,1,,4,0
+SAT4,5,SAT,Titiwangsa,,1,,4,0
+SUN4,5,SUN,Titiwangsa,,1,,4,0
+MONFRI5,8,MONFRI,Jalan Duta,,0,,5,0
+SAT5,8,SAT,Jalan Duta,,0,,5,0
+SUN5,8,SUN,Jalan Duta,,0,,5,0
+MONFRI6,8,MONFRI,Jalan Sultan Mohamad,,1,,6,0
+SAT6,8,SAT,Jalan Sultan Mohamad,,1,,6,0
+SUN6,8,SUN,Jalan Sultan Mohamad,,1,,6,0
+MONFRI7,10,MONFRI,Pinggiran Batu Caves,,0,,7,0
+SAT7,10,SAT,Pinggiran Batu Caves,,0,,7,0
+SUN7,10,SUN,Pinggiran Batu Caves,,0,,7,0
+MONFRI8,10,MONFRI,Stesen LRT Gombak,,1,,8,0
+SAT8,10,SAT,Stesen LRT Gombak,,1,,8,0
+SUN8,10,SUN,Stesen LRT Gombak,,1,,8,0
+MONFRI9,11,MONFRI,Kampung Nakhoda via Taman Samudera,,0,,,0
+SAT9,11,SAT,Kampung Nakhoda via Taman Samudera,,0,,,0
+SUN9,11,SUN,Kampung Nakhoda via Taman Samudera,,0,,,0
+MONFRI10,11,MONFRI,Greenwood,,1,,,0
+SAT10,11,SAT,Greenwood,,1,,,0
+SUN10,11,SUN,Greenwood,,1,,,0
+MONFRI11,12,MONFRI,Taman Setapak Garden,,0,,11,0
+SAT11,12,SAT,Taman Setapak Garden,,0,,11,0
+SUN11,12,SUN,Taman Setapak Garden,,0,,11,0
+MONFRI12,12,MONFRI,Stesen LRT Taman Melati,,1,,12,0
+SAT12,12,SAT,Stesen LRT Taman Melati,,1,,12,0
+SUN12,12,SUN,Stesen LRT Taman Melati,,1,,12,0
+MONFRI13,18,MONFRI,Titiwangsa via Bandar Baru Sentul,,0,,13,0
+SAT13,18,SAT,Titiwangsa via Bandar Baru Sentul,,0,,13,0
+SUN13,18,SUN,Titiwangsa via Bandar Baru Sentul,,0,,13,0
+MONFRI14,18,MONFRI,Taman Dato Senu,,1,,14,0
+SAT14,18,SAT,Taman Dato Senu,,1,,14,0
+SUN14,18,SUN,Taman Dato Senu,,1,,14,0
+MONFRI15,21,MONFRI,Taman Melewar,,0,,,0
+SAT15,21,SAT,Taman Melewar,,0,,,0
+SUN15,21,SUN,Taman Melewar,,0,,,0
+MONFRI16,21,MONFRI,Stesen LRT Taman Melati,,1,,,0
+SAT16,21,SAT,Stesen LRT Taman Melati,,1,,,0
+SUN16,21,SUN,Stesen LRT Taman Melati,,1,,,0
+MONFRI17,23,MONFRI,UIA,,0,,17,0
+SAT17,23,SAT,UIA,,0,,17,0
+SUN17,23,SUN,UIA,,0,,17,0
+MONFRI18,23,MONFRI,Stesen LRT Gombak,,1,,,0
+SAT18,23,SAT,Stesen LRT Gombak,,1,,,0
+SUN18,23,SUN,Stesen LRT Gombak,,1,,,0
+MONFRI19,189,MONFRI,Lebuh Pudu,,0,,19,0
+SAT19,189,SAT,Lebuh Pudu,,0,,19,0
+SUN19,189,SUN,Lebuh Pudu,,0,,19,0
+MONFRI20,189,MONFRI,Pinggiran Batu Caves,,1,,20,0
+SAT20,189,SAT,Pinggiran Batu Caves,,1,,20,0
+SUN20,189,SUN,Pinggiran Batu Caves,,1,,20,0
+MONFRI21,86,MONFRI,Lebuh Pudu,,0,,21,0
+SAT21,86,SAT,Lebuh Pudu,,0,,21,0
+SUN21,86,SUN,Lebuh Pudu,,0,,21,0
+MONFRI22,86,MONFRI,Pinggiran Batu Caves,,1,,22,0
+SAT22,86,SAT,Pinggiran Batu Caves,,1,,22,0
+SUN22,86,SUN,Pinggiran Batu Caves,,1,,22,0
+MONFRI23,92,MONFRI,Lebuh Pudu,,0,,,0
+SAT23,92,SAT,Lebuh Pudu,,0,,,0
+SUN23,92,SUN,Lebuh Pudu,,0,,,0
+MONFRI24,92,MONFRI,Greenwood,,1,,24,0
+SAT24,92,SAT,Greenwood,,1,,24,0
+SUN24,92,SUN,Greenwood,,1,,24,0
+MONFRI25,125,MONFRI,Lebuh Ampang,,0,,,0
+SAT25,125,SAT,Lebuh Ampang,,0,,,0
+SUN25,125,SUN,Lebuh Ampang,,0,,,0
+MONFRI26,125,MONFRI,Stesen LRT Taman Melati,,1,,26,0
+SAT26,125,SAT,Stesen LRT Taman Melati,,1,,26,0
+SUN26,125,SUN,Stesen LRT Taman Melati,,1,,26,0
+MONFRI27,126,MONFRI,Medan Pasar,,0,,,0
+SAT27,126,SAT,Medan Pasar,,0,,,0
+SUN27,126,SUN,Medan Pasar,,0,,,0
+MONFRI28,126,MONFRI,Taman Jasa Utama,,1,,28,0
+SAT28,126,SAT,Taman Jasa Utama,,1,,28,0
+SUN28,126,SUN,Taman Jasa Utama,,1,,28,0
+MONFRI29,140,MONFRI,Bangkok Bank,,0,,,0
+SAT29,140,SAT,Bangkok Bank,,0,,,0
+SUN29,140,SUN,Bangkok Bank,,0,,,0
+MONFRI30,140,MONFRI,Mont Kiara / Desa Hartamas,,1,,30,0
+SAT30,140,SAT,Mont Kiara / Desa Hartamas,,1,,30,0
+SUN30,140,SUN,Mont Kiara / Desa Hartamas,,1,,30,0
+MONFRI31,191,MONFRI,Medan Pasar,,0,,,0
+SAT31,191,SAT,Medan Pasar,,0,,,0
+SUN31,191,SUN,Medan Pasar,,0,,,0
+MONFRI32,191,MONFRI,Damansara Damai,,1,,32,0
+SAT32,191,SAT,Damansara Damai,,1,,32,0
+SUN32,191,SUN,Damansara Damai,,1,,32,0
+MONFRI33,148,MONFRI,Medan Pasar,,0,,,0
+SAT33,148,SAT,Medan Pasar,,0,,,0
+SUN33,148,SUN,Medan Pasar,,0,,,0
+MONFRI34,148,MONFRI,Damansara Damai,,1,,34,0
+SAT34,148,SAT,Damansara Damai,,1,,34,0
+SUN34,148,SUN,Damansara Damai,,1,,34,0
+MONFRI35,87,MONFRI,Lebuh Pudu,,0,,35,0
+SAT35,87,SAT,Lebuh Pudu,,0,,35,0
+SUN35,87,SUN,Lebuh Pudu,,0,,35,0
+MONFRI36,87,MONFRI,Pinggiran Batu Caves,,1,,36,0
+SAT36,87,SAT,Pinggiran Batu Caves,,1,,36,0
+SUN36,87,SUN,Pinggiran Batu Caves,,1,,36,0
+MONFRI37,89,MONFRI,Lebuh Ampang,,0,,,0
+SAT37,89,SAT,Lebuh Ampang,,0,,,0
+SUN37,89,SUN,Lebuh Ampang,,0,,,0
+MONFRI38,89,MONFRI,UIA,,1,,38,0
+SAT38,89,SAT,UIA,,1,,38,0
+SUN38,89,SUN,UIA,,1,,38,0
+MONFRI39,91,MONFRI,Bangkok Bank,,0,,,0
+SAT39,91,SAT,Bangkok Bank,,0,,,0
+SUN39,91,SUN,Bangkok Bank,,0,,,0
+MONFRI40,91,MONFRI,Sri Segambut,,1,,40,0
+SAT40,91,SAT,Sri Segambut,,1,,40,0
+SUN40,91,SUN,Sri Segambut,,1,,40,0
+MONFRI41,188,MONFRI,Chow Kit,,0,,,0
+SAT41,188,SAT,Chow Kit,,0,,,0
+SUN41,188,SUN,Chow Kit,,0,,,0
+MONFRI42,188,MONFRI,"Batu 12, Gombak",,1,,42,0
+SAT42,188,SAT,"Batu 12, Gombak",,1,,42,0
+SUN42,188,SUN,"Batu 12, Gombak",,1,,42,0
+MONFRI43,211,MONFRI,"Kotaraya, Jalan Tun Tan Cheng",,0,,,0
+SAT43,211,SAT,"Kotaraya, Jalan Tun Tan Cheng",,0,,,0
+SUN43,211,SUN,"Kotaraya, Jalan Tun Tan Cheng",,0,,,0
+MONFRI44,211,MONFRI,Bandar Dato Senu,,1,,44,0
+SAT44,211,SAT,Bandar Dato Senu,,1,,44,0
+SUN44,211,SUN,Bandar Dato Senu,,1,,44,0
+MONFRI45,161,MONFRI,Kotaraya,,0,,,0
+SAT45,161,SAT,Kotaraya,,0,,,0
+SUN45,161,SUN,Kotaraya,,0,,,0
+MONFRI46,161,MONFRI,Bandar Dato Senu,,1,,46,0
+SAT46,161,SAT,Bandar Dato Senu,,1,,46,0
+SUN46,161,SUN,Bandar Dato Senu,,1,,46,0
+MONFRI47,96,MONFRI,Lebuh Ampang via MINDEF,,0,,47,0
+SAT47,96,SAT,Lebuh Ampang via MINDEF,,0,,47,0
+SUN47,96,SUN,Lebuh Ampang via MINDEF,,0,,47,0
+MONFRI48,96,MONFRI,Taman Melawati,,1,,48,0
+SAT48,96,SAT,Taman Melawati,,1,,48,0
+SUN48,96,SUN,Taman Melawati,,1,,48,0
+MONFRI49,95,MONFRI,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SAT49,95,SAT,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SUN49,95,SUN,Jalan Hang Lekiu (Lin Ho),,0,,,0
+MONFRI50,95,MONFRI,Sri Nilam,,1,,,0
+SAT50,95,SAT,Sri Nilam,,1,,,0
+SUN50,95,SUN,Sri Nilam,,1,,,0
+MONFRI51,200,MONFRI,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SAT51,200,SAT,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SUN51,200,SUN,Jalan Hang Lekiu (Lin Ho),,0,,,0
+MONFRI52,200,MONFRI,Sri Nilam,,1,,,0
+SAT52,200,SAT,Sri Nilam,,1,,,0
+SUN52,200,SUN,Sri Nilam,,1,,,0
+MONFRI53,94,MONFRI,Lebuh Ampang via Kelompok,,0,,53,0
+SAT53,94,SAT,Lebuh Ampang via Kelompok,,0,,53,0
+SUN53,94,SUN,Lebuh Ampang via Kelompok,,0,,53,0
+MONFRI54,94,MONFRI,Bukit Antarabangsa via AU3 Jentayu Keramat,,1,,54,0
+SAT54,94,SAT,Bukit Antarabangsa via AU3 Jentayu Keramat,,1,,54,0
+SUN54,94,SUN,Bukit Antarabangsa via AU3 Jentayu Keramat,,1,,54,0
+MONFRI55,93,MONFRI,Titiwangsa / Chow Kit,,0,,55,0
+SAT55,93,SAT,Titiwangsa / Chow Kit,,0,,55,0
+SUN55,93,SUN,Titiwangsa / Chow Kit,,0,,55,0
+MONFRI56,93,MONFRI,Taman Melawati,,1,,56,0
+SAT56,93,SAT,Taman Melawati,,1,,56,0
+SUN56,93,SUN,Taman Melawati,,1,,56,0
+MONFRI57,37,MONFRI,Desa Pandan,,0,,57,0
+SAT57,37,SAT,Desa Pandan,,0,,57,0
+SUN57,37,SUN,Desa Pandan,,0,,57,0
+MONFRI58,37,MONFRI,Stesen LRT Dato Keramat,,1,,58,0
+SAT58,37,SAT,Stesen LRT Dato Keramat,,1,,58,0
+SUN58,37,SUN,Stesen LRT Dato Keramat,,1,,58,0
+MONFRI59,36,MONFRI,Maluri,,0,,,0
+SAT59,36,SAT,Maluri,,0,,,0
+SUN59,36,SUN,Maluri,,0,,,0
+MONFRI60,36,MONFRI,Taman Dagang,,1,,,0
+SAT60,36,SAT,Taman Dagang,,1,,,0
+SUN60,36,SUN,Taman Dagang,,1,,,0
+MONFRI61,35,MONFRI,Stesen LRT Pandan Indah,,0,,,0
+SAT61,35,SAT,Stesen LRT Pandan Indah,,0,,,0
+SUN61,35,SUN,Stesen LRT Pandan Indah,,0,,,0
+MONFRI62,35,MONFRI,Ampang Point,,1,,62,0
+SAT62,35,SAT,Ampang Point,,1,,62,0
+SUN62,35,SUN,Ampang Point,,1,,62,0
+MONFRI63,34,MONFRI,Maluri,,0,,,0
+SAT63,34,SAT,Maluri,,0,,,0
+SUN63,34,SUN,Maluri,,0,,,0
+MONFRI64,34,MONFRI,Taman Shamelin,,1,,,0
+SAT64,34,SAT,Taman Shamelin,,1,,,0
+SUN64,34,SUN,Taman Shamelin,,1,,,0
+MONFRI65,32,MONFRI,Taman Bukit Permai,,0,,,0
+SAT65,32,SAT,Taman Bukit Permai,,0,,,0
+SUN65,32,SUN,Taman Bukit Permai,,0,,,0
+MONFRI66,32,MONFRI,Stesen LRT Cempaka,,1,,,0
+SAT66,32,SAT,Stesen LRT Cempaka,,1,,,0
+SUN66,32,SUN,Stesen LRT Cempaka,,1,,,0
+MONFRI67,31,MONFRI,Tasik Tambahan via Taman Mawar,,0,,,0
+SAT67,31,SAT,Tasik Tambahan via Taman Mawar,,0,,,0
+SUN67,31,SUN,Tasik Tambahan via Taman Mawar,,0,,,0
+MONFRI68,31,MONFRI,Stesen LRT Cempaka,,1,,,0
+SAT68,31,SAT,Stesen LRT Cempaka,,1,,,0
+SUN68,31,SUN,Stesen LRT Cempaka,,1,,,0
+MONFRI69,38,MONFRI,Garden City Hotel,,0,,,0
+SAT69,38,SAT,Garden City Hotel,,0,,,0
+SUN69,38,SUN,Garden City Hotel,,0,,,0
+MONFRI70,38,MONFRI,Lembah Jaya Utara,,1,,,0
+SAT70,38,SAT,Lembah Jaya Utara,,1,,,0
+SUN70,38,SUN,Lembah Jaya Utara,,1,,,0
+MONFRI71,174,MONFRI,Chow Kit,,0,,71,0
+SAT71,174,SAT,Chow Kit,,0,,71,0
+SUN71,174,SUN,Chow Kit,,0,,71,0
+MONFRI72,174,MONFRI,Taman Dagang,,1,,,0
+SAT72,174,SAT,Taman Dagang,,1,,,0
+SUN72,174,SUN,Taman Dagang,,1,,,0
+MONFRI75,108,MONFRI,Ampang Point,,0,,,0
+SAT75,108,SAT,Ampang Point,,0,,,0
+SUN75,108,SUN,Ampang Point,,0,,,0
+MONFRI76,108,MONFRI,Stesen LRT Wangsa Maju,,1,,,0
+SAT76,108,SAT,Stesen LRT Wangsa Maju,,1,,,0
+SUN76,108,SUN,Stesen LRT Wangsa Maju,,1,,,0
+MONFRI77,107,MONFRI,Lebuh Ampang,,0,,77,0
+SAT77,107,SAT,Lebuh Ampang,,0,,77,0
+SUN77,107,SUN,Lebuh Ampang,,0,,77,0
+MONFRI78,107,MONFRI,Ayer Panas,,1,,78,0
+SAT78,107,SAT,Ayer Panas,,1,,78,0
+SUN78,107,SUN,Ayer Panas,,1,,78,0
+MONFRI79,182,MONFRI,Menara Maybank,,0,,,0
+SAT79,182,SAT,Menara Maybank,,0,,,0
+SUN79,182,SUN,Menara Maybank,,0,,,0
+MONFRI80,182,MONFRI,Taman Dagang,,1,,,0
+SAT80,182,SAT,Taman Dagang,,1,,,0
+SUN80,182,SUN,Taman Dagang,,1,,,0
+MONFRI81,177,MONFRI,Menara Maybank,,0,,,0
+SAT81,177,SAT,Menara Maybank,,0,,,0
+SUN81,177,SUN,Menara Maybank,,0,,,0
+MONFRI82,177,MONFRI,Pandan Indah,,1,,,0
+SAT82,177,SAT,Pandan Indah,,1,,,0
+SUN82,177,SUN,Pandan Indah,,1,,,0
+MONFRI83,212,MONFRI,Menara Maybank,,0,,,0
+SAT83,212,SAT,Menara Maybank,,0,,,0
+SUN83,212,SUN,Menara Maybank,,0,,,0
+MONFRI84,212,MONFRI,Pandan Indah,,1,,,0
+SAT84,212,SAT,Pandan Indah,,1,,,0
+SUN84,212,SUN,Pandan Indah,,1,,,0
+MONFRI85,104,MONFRI,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SAT85,104,SAT,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SUN85,104,SUN,Jalan Hang Lekiu (Lin Ho),,0,,,0
+MONFRI86,104,MONFRI,Pandan Mewah,,1,,,0
+SAT86,104,SAT,Pandan Mewah,,1,,,0
+SUN86,104,SUN,Pandan Mewah,,1,,,0
+MONFRI87,195,MONFRI,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SAT87,195,SAT,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SUN87,195,SUN,Jalan Hang Lekiu (Lin Ho),,0,,,0
+MONFRI88,195,MONFRI,Pandan Mewah,,1,,,0
+SAT88,195,SAT,Pandan Mewah,,1,,,0
+SUN88,195,SUN,Pandan Mewah,,1,,,0
+MONFRI89,102,MONFRI,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SAT89,102,SAT,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SUN89,102,SUN,Jalan Hang Lekiu (Lin Ho),,0,,,0
+MONFRI90,102,MONFRI,Taman Mulia Jaya,,1,,,0
+SAT90,102,SAT,Taman Mulia Jaya,,1,,,0
+SUN90,102,SUN,Taman Mulia Jaya,,1,,,0
+MONFRI91,101,MONFRI,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SAT91,101,SAT,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SUN91,101,SUN,Jalan Hang Lekiu (Lin Ho),,0,,,0
+MONFRI92,101,MONFRI,Taman Mulia Jaya,,1,,,0
+SAT92,101,SAT,Taman Mulia Jaya,,1,,,0
+SUN92,101,SUN,Taman Mulia Jaya,,1,,,0
+MONFRI93,100,MONFRI,Menara Maybank,,0,,,0
+SAT93,100,SAT,Menara Maybank,,0,,,0
+SUN93,100,SUN,Menara Maybank,,0,,,0
+MONFRI94,100,MONFRI,Sri Nilam,,1,,,0
+SAT94,100,SAT,Sri Nilam,,1,,,0
+SUN94,100,SUN,Sri Nilam,,1,,,0
+MONFRI95,99,MONFRI,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SAT95,99,SAT,Jalan Hang Lekiu (Lin Ho),,0,,,0
+SUN95,99,SUN,Jalan Hang Lekiu (Lin Ho),,0,,,0
+MONFRI96,99,MONFRI,"Bukit Indah, Ampang",,1,,,0
+SAT96,99,SAT,"Bukit Indah, Ampang",,1,,,0
+SUN96,99,SUN,"Bukit Indah, Ampang",,1,,,0
+MONFRI97,98,MONFRI,Lebuh Ampang via Setapak Jaya,,0,,97,0
+SAT97,98,SAT,Lebuh Ampang via Setapak Jaya,,0,,97,0
+SUN97,98,SUN,Lebuh Ampang via Setapak Jaya,,0,,97,0
+MONFRI98,98,MONFRI,"Seksyen 10, Wangsa Maju / Stesen LRT Sri Rampai",,1,,98,0
+SAT98,98,SAT,"Seksyen 10, Wangsa Maju / Stesen LRT Sri Rampai",,1,,98,0
+SUN98,98,SUN,"Seksyen 10, Wangsa Maju / Stesen LRT Sri Rampai",,1,,98,0
+MONFRI99,97,MONFRI,Bukit Bintang / UTAR,,0,,99,0
+SAT99,97,SAT,Bukit Bintang / UTAR,,0,,99,0
+SUN99,97,SUN,Bukit Bintang / UTAR,,0,,99,0
+MONFRI100,97,MONFRI,"Seksyen 2, Wangsa Maju",,1,,100,0
+SAT100,97,SAT,"Seksyen 2, Wangsa Maju",,1,,100,0
+SUN100,97,SUN,"Seksyen 2, Wangsa Maju",,1,,100,0
+MONFRI101,30,MONFRI,Ampang Point,,0,,,0
+SAT101,30,SAT,Ampang Point,,0,,,0
+SUN101,30,SUN,Ampang Point,,0,,,0
+MONFRI102,30,MONFRI,Bukit Indah,,1,,,0
+SAT102,30,SAT,Bukit Indah,,1,,,0
+SUN102,30,SUN,Bukit Indah,,1,,,0
+MONFRI103,164,MONFRI,UTAR via Jalan Genting Klang,,0,,,0
+SAT103,164,SAT,UTAR via Jalan Genting Klang,,0,,,0
+SUN103,164,SUN,UTAR via Jalan Genting Klang,,0,,,0
+MONFRI104,164,MONFRI,Stesen LRT Wangsa Maju,,1,,104,0
+SAT104,164,SAT,Stesen LRT Wangsa Maju,,1,,104,0
+SUN104,164,SUN,Stesen LRT Wangsa Maju,,1,,104,0
+MONFRI105,29,MONFRI,Taman Setiawangsa,,0,,,0
+SAT105,29,SAT,Taman Setiawangsa,,0,,,0
+SUN105,29,SUN,Taman Setiawangsa,,0,,,0
+MONFRI106,29,MONFRI,Stesen LRT Setiawangsa,,1,,,0
+SAT106,29,SAT,Stesen LRT Setiawangsa,,1,,,0
+SUN106,29,SUN,Stesen LRT Setiawangsa,,1,,,0
+MONFRI107,28,MONFRI,Ampang Point,,0,,,0
+SAT107,28,SAT,Ampang Point,,0,,,0
+SUN107,28,SUN,Ampang Point,,0,,,0
+MONFRI108,28,MONFRI,Stesen LRT Dato Keramat,,1,,,0
+SAT108,28,SAT,Stesen LRT Dato Keramat,,1,,,0
+SUN108,28,SUN,Stesen LRT Dato Keramat,,1,,,0
+MONFRI109,27,MONFRI,Ukay Perdana,,0,,,0
+SAT109,27,SAT,Ukay Perdana,,0,,,0
+SUN109,27,SUN,Ukay Perdana,,0,,,0
+MONFRI110,27,MONFRI,Stesen LRT Wangsa Maju,,1,,,0
+SAT110,27,SAT,Stesen LRT Wangsa Maju,,1,,,0
+SUN110,27,SUN,Stesen LRT Wangsa Maju,,1,,,0
+MONFRI111,26,MONFRI,Taman Melawati,,0,,,0
+SAT111,26,SAT,Taman Melawati,,0,,,0
+SUN111,26,SUN,Taman Melawati,,0,,,0
+MONFRI112,26,MONFRI,Stesen LRT Wangsa Maju,,1,,,0
+SAT112,26,SAT,Stesen LRT Wangsa Maju,,1,,,0
+SUN112,26,SUN,Stesen LRT Wangsa Maju,,1,,,0
+MONFRI113,25,MONFRI,"Seksyen 10, Wangsa Maju",,0,,,0
+SAT113,25,SAT,"Seksyen 10, Wangsa Maju",,0,,,0
+SUN113,25,SUN,"Seksyen 10, Wangsa Maju",,0,,,0
+MONFRI114,25,MONFRI,Stesen LRT Wangsa Maju,,1,,,0
+SAT114,25,SAT,Stesen LRT Wangsa Maju,,1,,,0
+SUN114,25,SUN,Stesen LRT Wangsa Maju,,1,,,0
+MONFRI115,24,MONFRI,Wangsa Walk / Carrefour,,0,,,0
+SAT115,24,SAT,Wangsa Walk / Carrefour,,0,,,0
+SUN115,24,SUN,Wangsa Walk / Carrefour,,0,,,0
+MONFRI116,24,MONFRI,Stesen LRT Wangsa Maju,,1,,,0
+SAT116,24,SAT,Stesen LRT Wangsa Maju,,1,,,0
+SUN116,24,SUN,Stesen LRT Wangsa Maju,,1,,,0
+MONFRI117,184,MONFRI,Pasar Seni,,0,,117,0
+SAT117,184,SAT,Pasar Seni,,0,,117,0
+SUN117,184,SUN,Pasar Seni,,0,,117,0
+MONFRI118,184,MONFRI,Subang Mewah,,1,,118,0
+SAT118,184,SAT,Subang Mewah,,1,,118,0
+SUN118,184,SUN,Subang Mewah,,1,,118,0
+MONFRI119,185,MONFRI,Pasar Seni,,0,,,0
+SAT119,185,SAT,Pasar Seni,,0,,,0
+SUN119,185,SUN,Pasar Seni,,0,,,0
+MONFRI120,185,MONFRI,Taman Sri Muda,,1,,,0
+SAT120,185,SAT,Taman Sri Muda,,1,,,0
+SUN120,185,SUN,Taman Sri Muda,,1,,,0
+MONFRI121,66,MONFRI,Hentian Bandar Shah Alam,,0,,121,0
+SAT121,66,SAT,Hentian Bandar Shah Alam,,0,,121,0
+SUN121,66,SUN,Hentian Bandar Shah Alam,,0,,121,0
+MONFRI122,66,MONFRI,Sri Muda,,1,,122,0
+SAT122,66,SAT,Sri Muda,,1,,122,0
+SUN122,66,SUN,Sri Muda,,1,,122,0
+MONFRI123,67,MONFRI,"Seksyen 16 - 17, Shah Alam via Stesen Komuter",,0,,123,0
+SAT123,67,SAT,"Seksyen 16 - 17, Shah Alam via Stesen Komuter",,0,,123,0
+SUN123,67,SUN,"Seksyen 16 - 17, Shah Alam via Stesen Komuter",,0,,123,0
+MONFRI124,67,MONFRI,Hentian Bandar Shah Alam,,1,,,0
+SAT124,67,SAT,Hentian Bandar Shah Alam,,1,,,0
+SUN124,67,SUN,Hentian Bandar Shah Alam,,1,,,0
+MONFRI125,68,MONFRI,Kota Kemuning,,0,,,0
+SAT125,68,SAT,Kota Kemuning,,0,,,0
+SUN125,68,SUN,Kota Kemuning,,0,,,0
+MONFRI126,68,MONFRI,Taman Sri Muda,,1,,,0
+SAT126,68,SAT,Taman Sri Muda,,1,,,0
+SUN126,68,SUN,Taman Sri Muda,,1,,,0
+MONFRI127,163,MONFRI,Bandar Puncak Alam,,0,,127,0
+SAT127,163,SAT,Bandar Puncak Alam,,0,,127,0
+SUN127,163,SUN,Bandar Puncak Alam,,0,,127,0
+MONFRI128,163,MONFRI,"UiTM, Puncak Alam",,1,,128,0
+SAT128,163,SAT,"UiTM, Puncak Alam",,1,,128,0
+SUN128,163,SUN,"UiTM, Puncak Alam",,1,,128,0
+MONFRI129,128,MONFRI,"Seksyen 7, Shah Alam",,0,,129,0
+SAT129,128,SAT,"Seksyen 7, Shah Alam",,0,,129,0
+SUN129,128,SUN,"Seksyen 7, Shah Alam",,0,,129,0
+MONFRI130,128,MONFRI,Hentian Bandar Shah Alam,,1,,,0
+SAT130,128,SAT,Hentian Bandar Shah Alam,,1,,,0
+SUN130,128,SUN,Hentian Bandar Shah Alam,,1,,,0
+MONFRI131,69,MONFRI,"Seksyen 11, 9, 8, 6, 4, 2",,0,,,0
+SAT131,69,SAT,"Seksyen 11, 9, 8, 6, 4, 2",,0,,,0
+SUN131,69,SUN,"Seksyen 11, 9, 8, 6, 4, 2",,0,,,0
+MONFRI132,69,MONFRI,Hentian Bandar Shah Alam,,1,,,0
+SAT132,69,SAT,Hentian Bandar Shah Alam,,1,,,0
+SUN132,69,SUN,Hentian Bandar Shah Alam,,1,,,0
+MONFRI133,70,MONFRI,"UiTM Kampus Utama, Shah Alam",,0,,133,0
+SAT133,70,SAT,"UiTM Kampus Utama, Shah Alam",,0,,133,0
+SUN133,70,SUN,"UiTM Kampus Utama, Shah Alam",,0,,133,0
+MONFRI134,70,MONFRI,"UiTM Seksyen 2, Shah Alam",,1,,,0
+SAT134,70,SAT,"UiTM Seksyen 2, Shah Alam",,1,,,0
+SUN134,70,SUN,"UiTM Seksyen 2, Shah Alam",,1,,,0
+MONFRI135,71,MONFRI,"UiTM Kampus Utama, Shah Alam",,0,,135,0
+SAT135,71,SAT,"UiTM Kampus Utama, Shah Alam",,0,,135,0
+SUN135,71,SUN,"UiTM Kampus Utama, Shah Alam",,0,,135,0
+MONFRI136,71,MONFRI,"Seksyen 7, Shah Alam",,1,,,0
+SAT136,71,SAT,"Seksyen 7, Shah Alam",,1,,,0
+SUN136,71,SUN,"Seksyen 7, Shah Alam",,1,,,0
+MONFRI137,131,MONFRI,Sunway Pyramid,,0,,137,0
+SAT137,131,SAT,Sunway Pyramid,,0,,137,0
+SUN137,131,SUN,Sunway Pyramid,,0,,137,0
+MONFRI138,131,MONFRI,Klang,,1,,138,0
+SAT138,131,SAT,Klang,,1,,138,0
+SUN138,131,SUN,Klang,,1,,138,0
+MONFRI139,133,MONFRI,Pasar Seni,,0,,139,0
+SAT139,133,SAT,Pasar Seni,,0,,139,0
+SUN139,133,SUN,Pasar Seni,,0,,139,0
+MONFRI140,133,MONFRI,USJ 8 / Subang Mewah,,1,,140,0
+SAT140,133,SAT,USJ 8 / Subang Mewah,,1,,140,0
+SUN140,133,SUN,USJ 8 / Subang Mewah,,1,,140,0
+MONFRI141,205,MONFRI,Persiaran Perdana,,0,,,0
+SAT141,205,SAT,Persiaran Perdana,,0,,,0
+SUN141,205,SUN,Persiaran Perdana,,0,,,0
+MONFRI142,205,MONFRI,"Warta Baru, Jalan Ipoh",,1,,,0
+SAT142,205,SAT,"Warta Baru, Jalan Ipoh",,1,,,0
+SUN142,205,SUN,"Warta Baru, Jalan Ipoh",,1,,,0
+MONFRI143,206,MONFRI,Persiaran Perdana,,0,,,0
+SAT143,206,SAT,Persiaran Perdana,,0,,,0
+SUN143,206,SUN,Persiaran Perdana,,0,,,0
+MONFRI144,206,MONFRI,Pinggiran Batu Caves,,1,,,0
+SAT144,206,SAT,Pinggiran Batu Caves,,1,,,0
+SUN144,206,SUN,Pinggiran Batu Caves,,1,,,0
+MONFRI149,134,MONFRI,Pasar Seni,,0,,,0
+SAT149,134,SAT,Pasar Seni,,0,,,0
+SUN149,134,SUN,Pasar Seni,,0,,,0
+MONFRI150,134,MONFRI,Taman Sri Muda,,1,,,0
+SAT150,134,SAT,Taman Sri Muda,,1,,,0
+SUN150,134,SUN,Taman Sri Muda,,1,,,0
+MONFRI152,135,MONFRI,Pasar Seni,,0,,,0
+SAT152,135,SAT,Pasar Seni,,0,,,0
+SUN152,135,SUN,Pasar Seni,,0,,,0
+MONFRI153,135,MONFRI,Putra Heights / Alam Megah,,1,,,0
+SAT153,135,SAT,Putra Heights / Alam Megah,,1,,,0
+SUN153,135,SUN,Putra Heights / Alam Megah,,1,,,0
+MONFRI154,204,MONFRI,Pasar Seni via Petaling Jaya,,0,,,0
+SAT154,204,SAT,Pasar Seni via Petaling Jaya,,0,,,0
+SUN154,204,SUN,Pasar Seni via Petaling Jaya,,0,,,0
+MONFRI155,204,MONFRI,Taman Medan,,1,,,0
+SAT155,204,SAT,Taman Medan,,1,,,0
+SUN155,204,SUN,Taman Medan,,1,,,0
+MONFRI156,136,MONFRI,Pasar Seni via Petaling Jaya,,0,,,0
+SAT156,136,SAT,Pasar Seni via Petaling Jaya,,0,,,0
+SUN156,136,SUN,Pasar Seni via Petaling Jaya,,0,,,0
+MONFRI157,136,MONFRI,Taman Medan,,1,,,0
+SAT157,136,SAT,Taman Medan,,1,,,0
+SUN157,136,SUN,Taman Medan,,1,,,0
+MONFRI158,176,MONFRI,Pasar Seni,,0,,158,0
+SAT158,176,SAT,Pasar Seni,,0,,158,0
+SUN158,176,SUN,Pasar Seni,,0,,158,0
+MONFRI159,176,MONFRI,USJ 8 / Taipan,,1,,159,0
+SAT159,176,SAT,USJ 8 / Taipan,,1,,159,0
+SUN159,176,SUN,USJ 8 / Taipan,,1,,159,0
+MONFRI160,190,MONFRI,Pasar Seni,,0,,160,0
+SAT160,190,SAT,Pasar Seni,,0,,160,0
+SUN160,190,SUN,Pasar Seni,,0,,160,0
+MONFRI161,190,MONFRI,"UiTM Seksyen 2, Shah Alam",,1,,161,0
+SAT161,190,SAT,"UiTM Seksyen 2, Shah Alam",,1,,161,0
+SUN161,190,SUN,"UiTM Seksyen 2, Shah Alam",,1,,161,0
+MONFRI162,149,MONFRI,Pasar Seni,,0,,162,0
+SAT162,149,SAT,Pasar Seni,,0,,162,0
+SUN162,149,SUN,Pasar Seni,,0,,162,0
+MONFRI163,149,MONFRI,"UiTM Seksyen 2, Shah Alam",,1,,163,0
+SAT163,149,SAT,"UiTM Seksyen 2, Shah Alam",,1,,163,0
+SUN163,149,SUN,"UiTM Seksyen 2, Shah Alam",,1,,163,0
+MONFRI164,162,MONFRI,UiTM Seksyen 2 / Hentian Bandar Shah Alam,,0,,164,0
+SAT164,162,SAT,UiTM Seksyen 2 / Hentian Bandar Shah Alam,,0,,164,0
+SUN164,162,SUN,UiTM Seksyen 2 / Hentian Bandar Shah Alam,,0,,164,0
+MONFRI165,162,MONFRI,"UiTM, Puncak Alam",,1,,165,0
+SAT165,162,SAT,"UiTM, Puncak Alam",,1,,165,0
+SUN165,162,SUN,"UiTM, Puncak Alam",,1,,165,0
+MONFRI166,213,MONFRI,Pasar Seni,,0,,,0
+SAT166,213,SAT,Pasar Seni,,0,,,0
+SUN166,213,SUN,Pasar Seni,,0,,,0
+MONFRI167,213,MONFRI,Jalan Pasar,,1,,167,0
+SAT167,213,SAT,Jalan Pasar,,1,,167,0
+SUN167,213,SUN,Jalan Pasar,,1,,167,0
+MONFRI168,129,MONFRI,Puncak Perdana,,0,,,0
+SAT168,129,SAT,Puncak Perdana,,0,,,0
+SUN168,129,SUN,Puncak Perdana,,0,,,0
+MONFRI169,129,MONFRI,"Seksyen 2, Shah Alam",,1,,,0
+SAT169,129,SAT,"Seksyen 2, Shah Alam",,1,,,0
+SUN169,129,SUN,"Seksyen 2, Shah Alam",,1,,,0
+MONFRI170,7,MONFRI,Titiwangsa via KLCC,,0,,,0
+SAT170,7,SAT,Titiwangsa via KLCC,,0,,,0
+SUN170,7,SUN,Titiwangsa via KLCC,,0,,,0
+MONFRI171,7,MONFRI,Maluri,,1,,171,0
+SAT171,7,SAT,Maluri,,1,,171,0
+SUN171,7,SUN,Maluri,,1,,171,0
+MONFRI172,181,MONFRI,Jalan Sultan Mohamed,,0,,172,0
+SAT172,181,SAT,Jalan Sultan Mohamed,,0,,172,0
+SUN172,181,SUN,Jalan Sultan Mohamed,,0,,172,0
+MONFRI173,181,MONFRI,Kota Damansara,,1,,173,0
+SAT173,181,SAT,Kota Damansara,,1,,173,0
+SUN173,181,SUN,Kota Damansara,,1,,173,0
+MONFRI174,73,MONFRI,Bukit Subang,,0,,174,0
+SAT174,73,SAT,Bukit Subang,,0,,174,0
+SUN174,73,SUN,Bukit Subang,,0,,174,0
+MONFRI177,20,MONFRI,Taman Mastiara,,0,,,0
+SAT177,20,SAT,Taman Mastiara,,0,,,0
+SUN177,20,SUN,Taman Mastiara,,0,,,0
+MONFRI178,20,MONFRI,Sungai Mas,,1,,,0
+SAT178,20,SAT,Sungai Mas,,1,,,0
+SUN178,20,SUN,Sungai Mas,,1,,,0
+MONFRI179,22,MONFRI,Bandar Baru Selayang,,0,,179,0
+SAT179,22,SAT,Bandar Baru Selayang,,0,,179,0
+SUN179,22,SUN,Bandar Baru Selayang,,0,,179,0
+MONFRI180,22,MONFRI,Metro Prima,,1,,180,0
+SAT180,22,SAT,Metro Prima,,1,,180,0
+SUN180,22,SUN,Metro Prima,,1,,180,0
+MONFRI181,73,MONFRI,Subang Perdana,,1,,181,0
+SAT181,73,SAT,Subang Perdana,,1,,181,0
+SUN181,73,SUN,Subang Perdana,,1,,181,0
+MONFRI182,74,MONFRI,Subang Perdana,,0,,182,0
+SAT182,74,SAT,Subang Perdana,,0,,182,0
+SUN182,74,SUN,Subang Perdana,,0,,182,0
+MONFRI183,74,MONFRI,Subang Bistari / Mahsing,,1,,,0
+SAT183,74,SAT,Subang Bistari / Mahsing,,1,,,0
+SUN183,74,SUN,Subang Bistari / Mahsing,,1,,,0
+MONFRI184,103,MONFRI,Medan Pasar,,0,,,0
+SAT184,103,SAT,Medan Pasar,,0,,,0
+SUN184,103,SUN,Medan Pasar,,0,,,0
+MONFRI185,103,MONFRI,Bandar Baru Selayang,,1,,185,0
+SAT185,103,SAT,Bandar Baru Selayang,,1,,185,0
+SUN185,103,SUN,Bandar Baru Selayang,,1,,185,0
+MONFRI186,192,MONFRI,Medan Pasar,,0,,,0
+SAT186,192,SAT,Medan Pasar,,0,,,0
+SUN186,192,SUN,Medan Pasar,,0,,,0
+MONFRI187,192,MONFRI,Taman Jasa Utama,,1,,187,0
+SAT187,192,SAT,Taman Jasa Utama,,1,,187,0
+SUN187,192,SUN,Taman Jasa Utama,,1,,187,0
+MONFRI188,88,MONFRI,Bangkok Bank,,0,,,0
+SAT188,88,SAT,Bangkok Bank,,0,,,0
+SUN188,88,SUN,Bangkok Bank,,0,,,0
+MONFRI189,88,MONFRI,Taman Sri Sinar,,1,,189,0
+SAT189,88,SAT,Taman Sri Sinar,,1,,189,0
+SUN189,88,SUN,Taman Sri Sinar,,1,,189,0
+MONFRI190,145,MONFRI,Pasar Seni,,0,,,0
+SAT190,145,SAT,Pasar Seni,,0,,,0
+SUN190,145,SUN,Pasar Seni,,0,,,0
+MONFRI191,145,MONFRI,Pantai Hill Park,,1,,,0
+SAT191,145,SAT,Pantai Hill Park,,1,,,0
+SUN191,145,SUN,Pantai Hill Park,,1,,,0
+MONFRI192,146,MONFRI,Pasar Seni via Pantai Dalam,,0,,192,0
+SAT192,146,SAT,Pasar Seni via Pantai Dalam,,0,,192,0
+SUN192,146,SUN,Pasar Seni via Pantai Dalam,,0,,192,0
+MONFRI193,146,MONFRI,PJ Old Town,,1,,,0
+SAT193,146,SAT,PJ Old Town,,1,,,0
+SUN193,146,SUN,PJ Old Town,,1,,,0
+MONFRI194,165,MONFRI,Medan Pasar,,0,,,0
+SAT194,165,SAT,Medan Pasar,,0,,,0
+SUN194,165,SUN,Medan Pasar,,0,,,0
+MONFRI195,165,MONFRI,Taman Selayang jaya,,1,,195,0
+SAT195,165,SAT,Taman Selayang jaya,,1,,195,0
+SUN195,165,SUN,Taman Selayang jaya,,1,,195,0
+MONFRI196,17,MONFRI,Medan Pasar,,0,,196,0
+SAT196,17,SAT,Medan Pasar,,0,,196,0
+SUN196,17,SUN,Medan Pasar,,0,,196,0
+MONFRI197,17,MONFRI,Jinjang Utara,,1,,197,0
+SAT197,17,SAT,Jinjang Utara,,1,,197,0
+SUN197,17,SUN,Jinjang Utara,,1,,197,0
+MONFRI198,130,MONFRI,Solaris Duta Kiara,,0,,198,0
+SAT198,130,SAT,Solaris Duta Kiara,,0,,198,0
+SUN198,130,SUN,Solaris Duta Kiara,,0,,198,0
+MONFRI199,130,MONFRI,Titiwangsa / Chow Kit,,1,,199,0
+SAT199,130,SAT,Titiwangsa / Chow Kit,,1,,199,0
+SUN199,130,SUN,Titiwangsa / Chow Kit,,1,,199,0
+MONFRI200,54,MONFRI,Taman Sri Sentosa,,0,,,0
+SAT200,54,SAT,Taman Sri Sentosa,,0,,,0
+SUN200,54,SUN,Taman Sri Sentosa,,0,,,0
+MONFRI201,54,MONFRI,Stesen LRT Taman Jaya,,1,,,0
+SAT201,54,SAT,Stesen LRT Taman Jaya,,1,,,0
+SUN201,54,SUN,Stesen LRT Taman Jaya,,1,,,0
+MONFRI202,72,MONFRI,Ara Damansara / Lembah Subang,,0,,,0
+SAT202,72,SAT,Ara Damansara / Lembah Subang,,0,,,0
+SUN202,72,SUN,Ara Damansara / Lembah Subang,,0,,,0
+MONFRI203,72,MONFRI,Stesen LRT Kelana Jaya,,1,,,0
+SAT203,72,SAT,Stesen LRT Kelana Jaya,,1,,,0
+SUN203,72,SUN,Stesen LRT Kelana Jaya,,1,,,0
+MONFRI204,75,MONFRI,Taman Mayang Mas,,0,,,0
+SAT204,75,SAT,Taman Mayang Mas,,0,,,0
+SUN204,75,SUN,Taman Mayang Mas,,0,,,0
+MONFRI205,75,MONFRI,Stesen LRT Kelana Jaya,,1,,,0
+SAT205,75,SAT,Stesen LRT Kelana Jaya,,1,,,0
+SUN205,75,SUN,Stesen LRT Kelana Jaya,,1,,,0
+MONFRI206,76,MONFRI,Kelana Centre Point / Stadium MBPJ,,0,,206,0
+SAT206,76,SAT,Kelana Centre Point / Stadium MBPJ,,0,,206,0
+SUN206,76,SUN,Kelana Centre Point / Stadium MBPJ,,0,,206,0
+MONFRI207,76,MONFRI,Stesen LRT Kelana Jaya,,1,,,0
+SAT207,76,SAT,Stesen LRT Kelana Jaya,,1,,,0
+SUN207,76,SUN,Stesen LRT Kelana Jaya,,1,,,0
+MONFRI208,109,MONFRI,Medan Pasar,,0,,,0
+SAT208,109,SAT,Medan Pasar,,0,,,0
+SUN208,109,SUN,Medan Pasar,,0,,,0
+MONFRI209,109,MONFRI,Desa Aman Puri,,1,,209,0
+SAT209,109,SAT,Desa Aman Puri,,1,,209,0
+SUN209,109,SUN,Desa Aman Puri,,1,,209,0
+MONFRI210,90,MONFRI,Medan Pasar,,0,,,0
+SAT210,90,SAT,Medan Pasar,,0,,,0
+SUN210,90,SUN,Medan Pasar,,0,,,0
+MONFRI211,90,MONFRI,Desa Aman Puri via Taman Ehsan,,1,,211,0
+SAT211,90,SAT,Desa Aman Puri via Taman Ehsan,,1,,211,0
+SUN211,90,SUN,Desa Aman Puri via Taman Ehsan,,1,,211,0
+MONFRI212,203,MONFRI,Pasar Seni,,0,,212,0
+SAT212,203,SAT,Pasar Seni,,0,,212,0
+SUN212,203,SUN,Pasar Seni,,0,,212,0
+MONFRI213,203,MONFRI,Subang Suria / Mahsing,,1,,,0
+SAT213,203,SAT,Subang Suria / Mahsing,,1,,,0
+SUN213,203,SUN,Subang Suria / Mahsing,,1,,,0
+MONFRI214,178,MONFRI,Pasar Seni,,0,,214,0
+SAT214,178,SAT,Pasar Seni,,0,,214,0
+SUN214,178,SUN,Pasar Seni,,0,,214,0
+MONFRI215,178,MONFRI,Subang Suria / Mahsing,,1,,,0
+SAT215,178,SAT,Subang Suria / Mahsing,,1,,,0
+SUN215,178,SUN,Subang Suria / Mahsing,,1,,,0
+MONFRI216,201,MONFRI,KL Sentral,,0,,,0
+SAT216,201,SAT,KL Sentral,,0,,,0
+SUN216,201,SUN,KL Sentral,,0,,,0
+MONFRI217,201,MONFRI,Bandar Utama,,1,,217,0
+SAT217,201,SAT,Bandar Utama,,1,,217,0
+SUN217,201,SUN,Bandar Utama,,1,,217,0
+MONFRI218,151,MONFRI,KL Sentral,,0,,,0
+SAT218,151,SAT,KL Sentral,,0,,,0
+SUN218,151,SUN,KL Sentral,,0,,,0
+MONFRI219,151,MONFRI,Bandar Utama,,1,,219,0
+SAT219,151,SAT,Bandar Utama,,1,,219,0
+SUN219,151,SUN,Bandar Utama,,1,,219,0
+MONFRI220,160,MONFRI,Kompleks Kerajaan Jalan Duta,,0,,220,0
+SAT220,160,SAT,Kompleks Kerajaan Jalan Duta,,0,,220,0
+SUN220,160,SUN,Kompleks Kerajaan Jalan Duta,,0,,220,0
+MONFRI221,160,MONFRI,KL Sentral,,1,,,0
+SAT221,160,SAT,KL Sentral,,1,,,0
+SUN221,160,SUN,KL Sentral,,1,,,0
+MONFRI222,154,MONFRI,Metro Prima,,0,,222,0
+SAT222,154,SAT,Metro Prima,,0,,222,0
+SUN222,154,SUN,Metro Prima,,0,,222,0
+MONFRI223,154,MONFRI,Bandar Utama,,1,,223,0
+SAT223,154,SAT,Bandar Utama,,1,,223,0
+SUN223,154,SUN,Bandar Utama,,1,,223,0
+MONFRI224,156,MONFRI,Pasar Seni,,0,,224,0
+SAT224,156,SAT,Pasar Seni,,0,,224,0
+SUN224,156,SUN,Pasar Seni,,0,,224,0
+MONFRI225,156,MONFRI,Kota Damansara,,1,,225,0
+SAT225,156,SAT,Kota Damansara,,1,,225,0
+SUN225,156,SUN,Kota Damansara,,1,,225,0
+MONFRI226,157,MONFRI,"Kota Damansara Seksyen 11, 13, 5, 4",,0,,226,0
+SAT226,157,SAT,"Kota Damansara Seksyen 11, 13, 5, 4",,0,,226,0
+SUN226,157,SUN,"Kota Damansara Seksyen 11, 13, 5, 4",,0,,226,0
+MONFRI227,157,MONFRI,Stesen LRT Kelana Jaya,,1,,227,0
+SAT227,157,SAT,Stesen LRT Kelana Jaya,,1,,227,0
+SUN227,157,SUN,Stesen LRT Kelana Jaya,,1,,227,0
+MONFRI228,83,MONFRI,Universiti Malaya,,0,,,0
+SAT228,83,SAT,Universiti Malaya,,0,,,0
+SUN228,83,SUN,Universiti Malaya,,0,,,0
+MONFRI229,83,MONFRI,Bukit Angkasa,,1,,,0
+SAT229,83,SAT,Bukit Angkasa,,1,,,0
+SUN229,83,SUN,Bukit Angkasa,,1,,,0
+MONFRI230,77,MONFRI,"SS6, SS5, SS3",,0,,,0
+SAT230,77,SAT,"SS6, SS5, SS3",,0,,,0
+SUN230,77,SUN,"SS6, SS5, SS3",,0,,,0
+MONFRI231,77,MONFRI,Stesen LRT Taman Bahagia,,1,,,0
+SAT231,77,SAT,Stesen LRT Taman Bahagia,,1,,,0
+SUN231,77,SUN,Stesen LRT Taman Bahagia,,1,,,0
+MONFRI232,78,MONFRI,Damansara Utama,,0,,232,0
+SAT232,78,SAT,Damansara Utama,,0,,232,0
+SUN232,78,SUN,Damansara Utama,,0,,232,0
+MONFRI233,78,MONFRI,Stesen LRT Taman Bahagia,,1,,233,0
+SAT233,78,SAT,Stesen LRT Taman Bahagia,,1,,233,0
+SUN233,78,SUN,Stesen LRT Taman Bahagia,,1,,233,0
+MONFRI234,79,MONFRI,Kg Tunku Sg Way Seksyen 51A,,0,,,0
+SAT234,79,SAT,Kg Tunku Sg Way Seksyen 51A,,0,,,0
+SUN234,79,SUN,Kg Tunku Sg Way Seksyen 51A,,0,,,0
+MONFRI235,79,MONFRI,Stesen LRT Taman Paramount,,1,,,0
+SAT235,79,SAT,Stesen LRT Taman Paramount,,1,,,0
+SUN235,79,SUN,Stesen LRT Taman Paramount,,1,,,0
+MONFRI236,80,MONFRI,"Sek 14, Sek 17",,0,,,0
+SAT236,80,SAT,"Sek 14, Sek 17",,0,,,0
+SUN236,80,SUN,"Sek 14, Sek 17",,0,,,0
+MONFRI237,80,MONFRI,Stesen LRT Asia Jaya,,1,,,0
+SAT237,80,SAT,Stesen LRT Asia Jaya,,1,,,0
+SUN237,80,SUN,Stesen LRT Asia Jaya,,1,,,0
+MONFRI238,214,MONFRI,"Sek 14, Sek 17",,0,,,0
+SAT238,214,SAT,"Sek 14, Sek 17",,0,,,0
+SUN238,214,SUN,"Sek 14, Sek 17",,0,,,0
+MONFRI239,214,MONFRI,Stesen LRT Asia Jaya,,1,,,0
+SAT239,214,SAT,Stesen LRT Asia Jaya,,1,,,0
+SUN239,214,SUN,Stesen LRT Asia Jaya,,1,,,0
+MONFRI240,81,MONFRI,Eastin Hotel,,0,,,0
+SAT240,81,SAT,Eastin Hotel,,0,,,0
+SUN240,81,SUN,Eastin Hotel,,0,,,0
+MONFRI241,81,MONFRI,Stesen LRT Asia Jaya,,1,,,0
+SAT241,81,SAT,Stesen LRT Asia Jaya,,1,,,0
+SUN241,81,SUN,Stesen LRT Asia Jaya,,1,,,0
+MONFRI242,215,MONFRI,Eastin Hotel,,0,,,0
+SAT242,215,SAT,Eastin Hotel,,0,,,0
+SUN242,215,SUN,Eastin Hotel,,0,,,0
+MONFRI243,215,MONFRI,Stesen LRT Asia Jaya,,1,,,0
+SAT243,215,SAT,Stesen LRT Asia Jaya,,1,,,0
+SUN243,215,SUN,Stesen LRT Asia Jaya,,1,,,0
+MONFRI244,180,MONFRI,Mid Valley,,0,,,0
+SAT244,180,SAT,Mid Valley,,0,,,0
+SUN244,180,SUN,Mid Valley,,0,,,0
+MONFRI245,180,MONFRI,Stesen LRT Universiti,,1,,,0
+SAT245,180,SAT,Stesen LRT Universiti,,1,,,0
+SUN245,180,SUN,Stesen LRT Universiti,,1,,,0
+MONFRI246,84,MONFRI,Pantai Hill Park,,0,,,0
+SAT246,84,SAT,Pantai Hill Park,,0,,,0
+SUN246,84,SUN,Pantai Hill Park,,0,,,0
+MONFRI247,84,MONFRI,Stesen LRT Kerinchi,,1,,,0
+SAT247,84,SAT,Stesen LRT Kerinchi,,1,,,0
+SUN247,84,SUN,Stesen LRT Kerinchi,,1,,,0
+MONFRI248,85,MONFRI,Pusat Bandar Damansara,,0,,,0
+SAT248,85,SAT,Pusat Bandar Damansara,,0,,,0
+SUN248,85,SUN,Pusat Bandar Damansara,,0,,,0
+MONFRI249,85,MONFRI,Stesen LRT Bangsar,,1,,,0
+SAT249,85,SAT,Stesen LRT Bangsar,,1,,,0
+SUN249,85,SUN,Stesen LRT Bangsar,,1,,,0
+MONFRI250,159,MONFRI,PPUM,,0,,250,0
+SAT250,159,SAT,PPUM,,0,,250,0
+SUN250,159,SUN,PPUM,,0,,250,0
+MONFRI251,159,MONFRI,Stesen LRT Universiti,,1,,,0
+SAT251,159,SAT,Stesen LRT Universiti,,1,,,0
+SUN251,159,SUN,Stesen LRT Universiti,,1,,,0
+MONFRI252,152,MONFRI,Pasar Seni,,0,,,0
+SAT252,152,SAT,Pasar Seni,,0,,,0
+SUN252,152,SUN,Pasar Seni,,0,,,0
+MONFRI253,152,MONFRI,Kelana Jaya,,1,,253,0
+SAT253,152,SAT,Kelana Jaya,,1,,253,0
+SUN253,152,SUN,Kelana Jaya,,1,,253,0
+MONFRI254,153,MONFRI,Pasar Seni,,0,,254,0
+SAT254,153,SAT,Pasar Seni,,0,,254,0
+SUN254,153,SUN,Pasar Seni,,0,,254,0
+MONFRI255,153,MONFRI,Stesen LRT Taman Paramount / SS2 (SEAPARK),,1,,255,0
+SAT255,153,SAT,Stesen LRT Taman Paramount / SS2 (SEAPARK),,1,,255,0
+SUN255,153,SUN,Stesen LRT Taman Paramount / SS2 (SEAPARK),,1,,255,0
+MONFRI256,172,MONFRI,Pasar Seni,,0,,,0
+SAT256,172,SAT,Pasar Seni,,0,,,0
+SUN256,172,SUN,Pasar Seni,,0,,,0
+MONFRI257,172,MONFRI,Bandar Sungai Long,,1,,,0
+SAT257,172,SAT,Bandar Sungai Long,,1,,,0
+SUN257,172,SUN,Bandar Sungai Long,,1,,,0
+MONFRI258,167,MONFRI,Pasar Seni,,0,,,0
+SAT258,167,SAT,Pasar Seni,,0,,,0
+SUN258,167,SUN,Pasar Seni,,0,,,0
+MONFRI259,167,MONFRI,Putrajaya Sentral,,1,,,0
+SAT259,167,SAT,Putrajaya Sentral,,1,,,0
+SUN259,167,SUN,Putrajaya Sentral,,1,,,0
+MONFRI260,46,MONFRI,Taman Sri Pulai,,1,,,0
+SAT260,46,SAT,Taman Sri Pulai,,1,,,0
+SUN260,46,SUN,Taman Sri Pulai,,1,,,0
+MONFRI261,46,MONFRI,Stesen LRT Sungai Besi,,0,,,0
+SAT261,46,SAT,Stesen LRT Sungai Besi,,0,,,0
+SUN261,46,SUN,Stesen LRT Sungai Besi,,0,,,0
+MONFRI262,47,MONFRI,Technology Park Malaysia via Bandar Puncak Jalil,,0,,262,0
+SAT262,47,SAT,Technology Park Malaysia via Bandar Puncak Jalil,,0,,262,0
+SUN262,47,SUN,Technology Park Malaysia via Bandar Puncak Jalil,,0,,262,0
+MONFRI263,47,MONFRI,Sri Petaling,,1,,,0
+SAT263,47,SAT,Sri Petaling,,1,,,0
+SUN263,47,SUN,Sri Petaling,,1,,,0
+MONFRI264,48,MONFRI,Stesen LRT Salak Selatan,,0,,,0
+SAT264,48,SAT,Stesen LRT Salak Selatan,,0,,,0
+SUN264,48,SUN,Stesen LRT Salak Selatan,,0,,,0
+MONFRI265,48,MONFRI,Taman Gembira,,1,,,0
+SAT265,48,SAT,Taman Gembira,,1,,,0
+SUN265,48,SUN,Taman Gembira,,1,,,0
+MONFRI266,171,MONFRI,Stesen LRT Salak Selatan,,0,,,0
+SAT266,171,SAT,Stesen LRT Salak Selatan,,0,,,0
+SUN266,171,SUN,Stesen LRT Salak Selatan,,0,,,0
+MONFRI267,171,MONFRI,Stesen LRT Bukit Jalil,,1,,,0
+SAT267,171,SAT,Stesen LRT Bukit Jalil,,1,,,0
+SUN267,171,SUN,Stesen LRT Bukit Jalil,,1,,,0
+MONFRI268,49,MONFRI,HUKM via LRT BTS,,0,,,0
+SAT268,49,SAT,HUKM via LRT BTS,,0,,,0
+SUN268,49,SUN,HUKM via LRT BTS,,0,,,0
+MONFRI269,49,MONFRI,Desa Tasik,,1,,,0
+SAT269,49,SAT,Desa Tasik,,1,,,0
+SUN269,49,SUN,Desa Tasik,,1,,,0
+MONFRI270,50,MONFRI,Bandar Kajang,,0,,,0
+SAT270,50,SAT,Bandar Kajang,,0,,,0
+SUN270,50,SUN,Bandar Kajang,,0,,,0
+MONFRI271,50,MONFRI,UKM,,1,,,0
+SAT271,50,SAT,UKM,,1,,,0
+SUN271,50,SUN,UKM,,1,,,0
+MONFRI274,52,MONFRI,Stesen LRT Salak Selatan,,0,,,0
+SAT274,52,SAT,Stesen LRT Salak Selatan,,0,,,0
+SUN274,52,SUN,Stesen LRT Salak Selatan,,0,,,0
+MONFRI275,52,MONFRI,Bandar Sri Permaisuri / HUKM,,1,,,0
+SAT275,52,SAT,Bandar Sri Permaisuri / HUKM,,1,,,0
+SUN275,52,SUN,Bandar Sri Permaisuri / HUKM,,1,,,0
+MONFRI276,199,MONFRI,"Mydin Sinar Kota, Jalan Tun Perak",,0,,,0
+SAT276,199,SAT,"Mydin Sinar Kota, Jalan Tun Perak",,0,,,0
+SUN276,199,SUN,"Mydin Sinar Kota, Jalan Tun Perak",,0,,,0
+MONFRI277,199,MONFRI,Terminal Kajang,,1,,,0
+SAT277,199,SAT,Terminal Kajang,,1,,,0
+SUN277,199,SUN,Terminal Kajang,,1,,,0
+MONFRI278,110,MONFRI,"Mydin Sinar Kota, Jalan Tun Perak",,0,,,0
+SAT278,110,SAT,"Mydin Sinar Kota, Jalan Tun Perak",,0,,,0
+SUN278,110,SUN,"Mydin Sinar Kota, Jalan Tun Perak",,0,,,0
+MONFRI279,110,MONFRI,Terminal Kajang,,1,,,0
+SAT279,110,SAT,Terminal Kajang,,1,,,0
+SUN279,110,SUN,Terminal Kajang,,1,,,0
+MONFRI280,217,MONFRI,Sunway Subang Parade,,0,,,0
+SAT280,217,SAT,Sunway Subang Parade,,0,,,0
+SUN280,217,SUN,Sunway Subang Parade,,0,,,0
+MONFRI281,217,MONFRI,Stesen LRT Kelana Jaya,,1,,,0
+SAT281,217,SAT,Stesen LRT Kelana Jaya,,1,,,0
+SUN281,217,SUN,Stesen LRT Kelana Jaya,,1,,,0
+MONFRI282,158,MONFRI,Sunway Subang Parade,,0,,,0
+SAT282,158,SAT,Sunway Subang Parade,,0,,,0
+SUN282,158,SUN,Sunway Subang Parade,,0,,,0
+MONFRI283,158,MONFRI,Stesen LRT Kelana Jaya,,1,,,0
+SAT283,158,SAT,Stesen LRT Kelana Jaya,,1,,,0
+SUN283,158,SUN,Stesen LRT Kelana Jaya,,1,,,0
+MONFRI284,111,MONFRI,"Mydin Sinar Kota, Jalan Tun Perak",,0,,,0
+SAT284,111,SAT,"Mydin Sinar Kota, Jalan Tun Perak",,0,,,0
+SUN284,111,SUN,"Mydin Sinar Kota, Jalan Tun Perak",,0,,,0
+MONFRI285,111,MONFRI,Bandar Sungai Long,,1,,285,0
+SAT285,111,SAT,Bandar Sungai Long,,1,,285,0
+SUN285,111,SUN,Bandar Sungai Long,,1,,285,0
+MONFRI286,114,MONFRI,Stesen KTM Serdang,,0,,,0
+SAT286,114,SAT,Stesen KTM Serdang,,0,,,0
+SUN286,114,SUN,Stesen KTM Serdang,,0,,,0
+MONFRI287,114,MONFRI,Putrajaya Sentral,,1,,,0
+SAT287,114,SAT,Putrajaya Sentral,,1,,,0
+SUN287,114,SUN,Putrajaya Sentral,,1,,,0
+MONFRI288,117,MONFRI,Bandar Utama,,0,,288,0
+SAT288,117,SAT,Bandar Utama,,0,,288,0
+SUN288,117,SUN,Bandar Utama,,0,,288,0
+MONFRI289,117,MONFRI,Putrajaya Sentral,,1,,289,0
+SAT289,117,SAT,Putrajaya Sentral,,1,,289,0
+SUN289,117,SUN,Putrajaya Sentral,,1,,289,0
+MONFRI290,119,MONFRI,Bukit Bintang,,0,,,0
+SAT290,119,SAT,Bukit Bintang,,0,,,0
+SUN290,119,SUN,Bukit Bintang,,0,,,0
+MONFRI291,119,MONFRI,Bandar Sri Permaisuri,,1,,,0
+SAT291,119,SAT,Bandar Sri Permaisuri,,1,,,0
+SUN291,119,SUN,Bandar Sri Permaisuri,,1,,,0
+MONFRI292,120,MONFRI,Bukit Bintang,,0,,292,0
+SAT292,120,SAT,Bukit Bintang,,0,,292,0
+SUN292,120,SUN,Bukit Bintang,,0,,292,0
+MONFRI293,120,MONFRI,Bandar Tun Razak,,1,,,0
+SAT293,120,SAT,Bandar Tun Razak,,1,,,0
+SUN293,120,SUN,Bandar Tun Razak,,1,,,0
+MONFRI294,198,MONFRI,Bukit Bintang,,0,,,0
+SAT294,198,SAT,Bukit Bintang,,0,,,0
+SUN294,198,SUN,Bukit Bintang,,0,,,0
+MONFRI295,198,MONFRI,Damai Perdana,,1,,,0
+SAT295,198,SAT,Damai Perdana,,1,,,0
+SUN295,198,SUN,Damai Perdana,,1,,,0
+MONFRI296,121,MONFRI,Bukit Bintang,,0,,,0
+SAT296,121,SAT,Bukit Bintang,,0,,,0
+SUN296,121,SUN,Bukit Bintang,,0,,,0
+MONFRI297,121,MONFRI,Damai Perdana,,1,,,0
+SAT297,121,SAT,Damai Perdana,,1,,,0
+SUN297,121,SUN,Damai Perdana,,1,,,0
+MONFRI298,123,MONFRI,Bukit Bintang,,0,,,0
+SAT298,123,SAT,Bukit Bintang,,0,,,0
+SUN298,123,SUN,Bukit Bintang,,0,,,0
+MONFRI299,123,MONFRI,Desa Petaling,,1,,,0
+SAT299,123,SAT,Desa Petaling,,1,,,0
+SUN299,123,SUN,Desa Petaling,,1,,,0
+MONFRI300,124,MONFRI,Pasar Seni,,0,,,0
+SAT300,124,SAT,Pasar Seni,,0,,,0
+SUN300,124,SUN,Pasar Seni,,0,,,0
+MONFRI301,124,MONFRI,Damai Perdana,,1,,,0
+SAT301,124,SAT,Damai Perdana,,1,,,0
+SUN301,124,SUN,Damai Perdana,,1,,,0
+MONFRI302,169,MONFRI,Bukit Bintang,,0,,,0
+SAT302,169,SAT,Bukit Bintang,,0,,,0
+SUN302,169,SUN,Bukit Bintang,,0,,,0
+MONFRI303,169,MONFRI,Taman Tun Perak,,1,,,0
+SAT303,169,SAT,Taman Tun Perak,,1,,,0
+SUN303,169,SUN,Taman Tun Perak,,1,,,0
+MONFRI304,170,MONFRI,Kota Raya,,0,,304,0
+SAT304,170,SAT,Kota Raya,,0,,304,0
+SUN304,170,SUN,Kota Raya,,0,,304,0
+MONFRI305,170,MONFRI,Taman Impian Ehsan,,1,,,0
+SAT305,170,SAT,Taman Impian Ehsan,,1,,,0
+SUN305,170,SUN,Taman Impian Ehsan,,1,,,0
+MONFRI306,113,MONFRI,Bandar Kajang Prima Saujana,,0,,306,0
+SAT306,113,SAT,Bandar Kajang Prima Saujana,,0,,306,0
+SUN306,113,SUN,Bandar Kajang Prima Saujana,,0,,306,0
+MONFRI307,113,MONFRI,Beranang,,1,,307,0
+SAT307,113,SAT,Beranang,,1,,307,0
+SUN307,113,SUN,Beranang,,1,,307,0
+MONFRI308,45,MONFRI,UPM / Taman Sri Serdang,,1,,,0
+SAT308,45,SAT,UPM / Taman Sri Serdang,,1,,,0
+SUN308,45,SUN,UPM / Taman Sri Serdang,,1,,,0
+MONFRI309,45,MONFRI,Stesen KTM Serdang,,0,,,0
+SAT309,45,SAT,Stesen KTM Serdang,,0,,,0
+SUN309,45,SUN,Stesen KTM Serdang,,0,,,0
+MONFRI310,115,MONFRI,TUDM Sungai Besi,,0,,,0
+SAT310,115,SAT,TUDM Sungai Besi,,0,,,0
+SUN310,115,SUN,TUDM Sungai Besi,,0,,,0
+MONFRI311,115,MONFRI,Pasar Seni,,1,,,0
+SAT311,115,SAT,Pasar Seni,,1,,,0
+SUN311,115,SUN,Pasar Seni,,1,,,0
+MONFRI312,40,MONFRI,Taman Awana Cheras,,0,,,0
+SAT312,40,SAT,Taman Awana Cheras,,0,,,0
+SUN312,40,SUN,Taman Awana Cheras,,0,,,0
+MONFRI313,40,MONFRI,Stesen LRT Bandar Tasik Selatan,,1,,,0
+SAT313,40,SAT,Stesen LRT Bandar Tasik Selatan,,1,,,0
+SUN313,40,SUN,Stesen LRT Bandar Tasik Selatan,,1,,,0
+MONFRI314,175,MONFRI,Taman Segar / Taman Bukit Supreme,,0,,,0
+SAT314,175,SAT,Taman Segar / Taman Bukit Supreme,,0,,,0
+SUN314,175,SUN,Taman Segar / Taman Bukit Supreme,,0,,,0
+MONFRI315,175,MONFRI,Stesen LRT Bandar Tasik Selatan,,1,,,0
+SAT315,175,SAT,Stesen LRT Bandar Tasik Selatan,,1,,,0
+SUN315,175,SUN,Stesen LRT Bandar Tasik Selatan,,1,,,0
+MONFRI316,179,MONFRI,Menara Maybank,,0,,,0
+SAT316,179,SAT,Menara Maybank,,0,,,0
+SUN316,179,SUN,Menara Maybank,,0,,,0
+MONFRI317,179,MONFRI,Awana Cheras,,1,,,0
+SAT317,179,SAT,Awana Cheras,,1,,,0
+SUN317,179,SUN,Awana Cheras,,1,,,0
+MONFRI318,127,MONFRI,Pasar Seni,,0,,318,0
+SAT318,127,SAT,Pasar Seni,,0,,318,0
+SUN318,127,SUN,Pasar Seni,,0,,318,0
+MONFRI319,127,MONFRI,Puchong Utama,,1,,319,0
+SAT319,127,SAT,Puchong Utama,,1,,319,0
+SUN319,127,SUN,Puchong Utama,,1,,319,0
+MONFRI320,138,MONFRI,Pasar Seni,,0,,,0
+SAT320,138,SAT,Pasar Seni,,0,,,0
+SUN320,138,SUN,Pasar Seni,,0,,,0
+MONFRI321,138,MONFRI,Sri Manja / Sentosa,,1,,,0
+SAT321,138,SAT,Sri Manja / Sentosa,,1,,,0
+SUN321,138,SUN,Sri Manja / Sentosa,,1,,,0
+MONFRI322,139,MONFRI,Pasar Seni via Batu 14,,0,,,0
+SAT322,139,SAT,Pasar Seni via Batu 14,,0,,,0
+SUN322,139,SUN,Pasar Seni via Batu 14,,0,,,0
+MONFRI323,139,MONFRI,Putra Perdana,,1,,,0
+SAT323,139,SAT,Putra Perdana,,1,,,0
+SUN323,139,SUN,Putra Perdana,,1,,,0
+MONFRI324,141,MONFRI,Pasar Seni,,0,,,0
+SAT324,141,SAT,Pasar Seni,,0,,,0
+SUN324,141,SUN,Pasar Seni,,0,,,0
+MONFRI325,141,MONFRI,Puchong Prima,,1,,,0
+SAT325,141,SAT,Puchong Prima,,1,,,0
+SUN325,141,SUN,Puchong Prima,,1,,,0
+MONFRI326,142,MONFRI,Pasarama Kota,,0,,,0
+SAT326,142,SAT,Pasarama Kota,,0,,,0
+SUN326,142,SUN,Pasarama Kota,,0,,,0
+MONFRI327,142,MONFRI,Bukit Jalil,,1,,,0
+SAT327,142,SAT,Bukit Jalil,,1,,,0
+SUN327,142,SUN,Bukit Jalil,,1,,,0
+MONFRI328,143,MONFRI,Pasar Seni,,0,,,0
+SAT328,143,SAT,Pasar Seni,,0,,,0
+SUN328,143,SUN,Pasar Seni,,0,,,0
+MONFRI329,143,MONFRI,Taman Desa,,1,,,0
+SAT329,143,SAT,Taman Desa,,1,,,0
+SUN329,143,SUN,Taman Desa,,1,,,0
+MONFRI330,144,MONFRI,Pasar Seni,,0,,,0
+SAT330,144,SAT,Pasar Seni,,0,,,0
+SUN330,144,SUN,Pasar Seni,,0,,,0
+MONFRI331,144,MONFRI,Taman Overseas Union,,1,,,0
+SAT331,144,SAT,Taman Overseas Union,,1,,,0
+SUN331,144,SUN,Taman Overseas Union,,1,,,0
+MONFRI332,183,MONFRI,"TM Batu 10, Lebuhraya Cheras Kajang",,0,,,0
+SAT332,183,SAT,"TM Batu 10, Lebuhraya Cheras Kajang",,0,,,0
+SUN332,183,SUN,"TM Batu 10, Lebuhraya Cheras Kajang",,0,,,0
+MONFRI333,183,MONFRI,"TNB Pangsun, Jalan Hulu Langat",,1,,,0
+SAT333,183,SAT,"TNB Pangsun, Jalan Hulu Langat",,1,,,0
+SUN333,183,SUN,"TNB Pangsun, Jalan Hulu Langat",,1,,,0
+MONFRI334,218,MONFRI,"TM Batu 10, Lebuhraya Cheras Kajang",,0,,,0
+SAT334,218,SAT,"TM Batu 10, Lebuhraya Cheras Kajang",,0,,,0
+SUN334,218,SUN,"TM Batu 10, Lebuhraya Cheras Kajang",,0,,,0
+MONFRI335,218,MONFRI,"Kampung Ulu Lui, Jalan Sungai Lui",,1,,,0
+SAT335,218,SAT,"Kampung Ulu Lui, Jalan Sungai Lui",,1,,,0
+SUN335,218,SUN,"Kampung Ulu Lui, Jalan Sungai Lui",,1,,,0
+MONFRI336,116,MONFRI,Putrajaya Sentral,,0,,,0
+SAT336,116,SAT,Putrajaya Sentral,,0,,,0
+SUN336,116,SUN,Putrajaya Sentral,,0,,,0
+MONFRI337,116,MONFRI,Cyberjaya Transport Terminal (CTT),,1,,337,0
+SAT337,116,SAT,Cyberjaya Transport Terminal (CTT),,1,,337,0
+SUN337,116,SUN,Cyberjaya Transport Terminal (CTT),,1,,337,0
+MONFRI338,118,MONFRI,Kota Raya,,0,,338,0
+SAT338,118,SAT,Kota Raya,,0,,338,0
+SUN338,118,SUN,Kota Raya,,0,,338,0
+MONFRI339,118,MONFRI,Puncak Jalil,,1,,,0
+SAT339,118,SAT,Puncak Jalil,,1,,,0
+SUN339,118,SUN,Puncak Jalil,,1,,,0
+MONFRI340,53,MONFRI,Pasar Seni,,0,,,0
+SAT340,53,SAT,Pasar Seni,,0,,,0
+SUN340,53,SUN,Pasar Seni,,0,,,0
+MONFRI341,53,MONFRI,OG Height,,1,,,0
+SAT341,53,SAT,OG Height,,1,,,0
+SUN341,53,SUN,OG Height,,1,,,0
+MONFRI344,56,MONFRI,Tesco / IOI Mall,,0,,,0
+SAT344,56,SAT,Tesco / IOI Mall,,0,,,0
+SUN344,56,SUN,Tesco / IOI Mall,,0,,,0
+MONFRI345,56,MONFRI,Bandar Kinrara,,1,,345,0
+SAT345,56,SAT,Bandar Kinrara,,1,,345,0
+SUN345,56,SUN,Bandar Kinrara,,1,,345,0
+MONFRI346,57,MONFRI,IOI Mall,,0,,,0
+SAT346,57,SAT,IOI Mall,,0,,,0
+SUN346,57,SUN,IOI Mall,,0,,,0
+MONFRI347,57,MONFRI,Taman Wawasan Puchong,,1,,,0
+SAT347,57,SAT,Taman Wawasan Puchong,,1,,,0
+SUN347,57,SUN,Taman Wawasan Puchong,,1,,,0
+MONFRI348,58,MONFRI,IOI Mall,,0,,,0
+SAT348,58,SAT,IOI Mall,,0,,,0
+SUN348,58,SUN,IOI Mall,,0,,,0
+MONFRI349,58,MONFRI,Puchong Utama,,1,,,0
+SAT349,58,SAT,Puchong Utama,,1,,,0
+SUN349,58,SUN,Puchong Utama,,1,,,0
+MONFRI350,59,MONFRI,Puchong Utama,,0,,,0
+SAT350,59,SAT,Puchong Utama,,0,,,0
+SUN350,59,SUN,Puchong Utama,,0,,,0
+MONFRI351,59,MONFRI,Puchong Prima,,1,,351,0
+SAT351,59,SAT,Puchong Prima,,1,,351,0
+SUN351,59,SUN,Puchong Prima,,1,,351,0
+MONFRI352,60,MONFRI,IOI Mall,,0,,,0
+SAT352,60,SAT,IOI Mall,,0,,,0
+SUN352,60,SUN,IOI Mall,,0,,,0
+MONFRI353,60,MONFRI,Puchong Prima,,1,,,0
+SAT353,60,SAT,Puchong Prima,,1,,,0
+SUN353,60,SUN,Puchong Prima,,1,,,0
+MONFRI354,61,MONFRI,Saujana Puchong,,0,,,0
+SAT354,61,SAT,Saujana Puchong,,0,,,0
+SUN354,61,SUN,Saujana Puchong,,0,,,0
+MONFRI355,61,MONFRI,Puchong Utama,,1,,,0
+SAT355,61,SAT,Puchong Utama,,1,,,0
+SUN355,61,SUN,Puchong Utama,,1,,,0
+MONFRI356,62,MONFRI,Pulau Meranti,,0,,,0
+SAT356,62,SAT,Pulau Meranti,,0,,,0
+SUN356,62,SUN,Pulau Meranti,,0,,,0
+MONFRI357,62,MONFRI,Puchong Utama,,1,,,0
+SAT357,62,SAT,Puchong Utama,,1,,,0
+SUN357,62,SUN,Puchong Utama,,1,,,0
+MONFRI358,196,MONFRI,Pasar Seni,,0,,358,0
+SAT358,196,SAT,Pasar Seni,,0,,358,0
+SUN358,196,SUN,Pasar Seni,,0,,358,0
+MONFRI359,196,MONFRI,Puchong Utama,,1,,359,0
+SAT359,196,SAT,Puchong Utama,,1,,359,0
+SUN359,196,SUN,Puchong Utama,,1,,359,0
+MONFRI360,197,MONFRI,Pasar Seni,,0,,,0
+SAT360,197,SAT,Pasar Seni,,0,,,0
+SUN360,197,SUN,Pasar Seni,,0,,,0
+MONFRI361,197,MONFRI,Sri Manja / Sentosa,,1,,,0
+SAT361,197,SAT,Sri Manja / Sentosa,,1,,,0
+SUN361,197,SUN,Sri Manja / Sentosa,,1,,,0
+MONFRI362,147,MONFRI,KL Sentral,,0,,,0
+SAT362,147,SAT,KL Sentral,,0,,,0
+SUN362,147,SUN,KL Sentral,,0,,,0
+MONFRI363,147,MONFRI,Subang Parade,,1,,,0
+SAT363,147,SAT,Subang Parade,,1,,,0
+SUN363,147,SUN,Subang Parade,,1,,,0
+MONTHR364,3,MONTHR,Ampang,,0,,364,0
+FRI364,3,FRI,Ampang,,0,,364,0
+SAT364,3,SAT,Ampang,,0,,364,0
+SUN364,3,SUN,Ampang,,0,,364,0
+MONTHR365,3,MONTHR,Sentul Timur,,1,,365,0
+FRI365,3,FRI,Sentul Timur,,1,,365,0
+SAT365,3,SAT,Sentul Timur,,1,,365,0
+SUN365,3,SUN,Sentul Timur,,1,,365,0
+MONTHR366,1,MONTHR,Gombak,,0,,366,0
+FRI366,1,FRI,Gombak,,0,,366,0
+SAT366,1,SAT,Gombak,,0,,366,0
+SUN366,1,SUN,Gombak,,0,,366,0
+MONTHR367,1,MONTHR,Kelana Jaya,,1,,367,0
+FRI367,1,FRI,Kelana Jaya,,1,,367,0
+SAT367,1,SAT,Kelana Jaya,,1,,367,0
+SUN367,1,SUN,Kelana Jaya,,1,,367,0
+MONTHR368,168,MONTHR,Titiwangsa,,0,,368,0
+FRI368,168,FRI,Titiwangsa,,0,,368,0
+SAT368,168,SAT,Titiwangsa,,0,,368,0
+SUN368,168,SUN,Titiwangsa,,0,,368,0
+MONTHR369,168,MONTHR,KL Sentral,,1,,369,0
+FRI369,168,FRI,KL Sentral,,1,,369,0
+SAT369,168,SAT,KL Sentral,,1,,369,0
+SUN369,168,SUN,KL Sentral,,1,,369,0
+MONTHR370,4,MONTHR,Sri Petaling,,0,,370,0
+FRI370,4,FRI,Sri Petaling,,0,,370,0
+SAT370,4,SAT,Sri Petaling,,0,,370,0
+SUN370,4,SUN,Sri Petaling,,0,,370,0
+MONTHR371,4,MONTHR,Sentul Timur,,1,,371,0
+FRI371,4,FRI,Sentul Timur,,1,,371,0
+SAT371,4,SAT,Sentul Timur,,1,,371,0
+SUN371,4,SUN,Sentul Timur,,1,,371,0
+MONTHR372,2,MONTHR,Sentul Timur,,0,,372,0
+FRI372,2,FRI,Sentul Timur,,0,,372,0
+SAT372,2,SAT,Sentul Timur,,0,,372,0
+SUN372,2,SUN,Sentul Timur,,0,,372,0
+MONTHR373,2,MONTHR,Ampang/Sri Petaling,,1,,373,0
+FRI373,2,FRI,Ampang/Sri Petaling,,1,,373,0
+SAT373,2,SAT,Ampang/Sri Petaling,,1,,373,0
+SUN373,2,SUN,Ampang/Sri Petaling,,1,,373,0
+MONFRI28360,219,MONFRI,Jalan Hang Lekiu,,0,,28360,0
+SAT28360,219,SAT,Jalan Hang Lekiu,,0,,28360,0
+SUN28360,219,SUN,Jalan Hang Lekiu,,0,,28360,0
+MONFRI28361,220,MONFRI,"Pasar Seni, Jalan Sultan Mohamed",,0,,,0
+SAT28361,220,SAT,"Pasar Seni, Jalan Sultan Mohamed",,0,,,0
+SUN28361,220,SUN,"Pasar Seni, Jalan Sultan Mohamed",,0,,,0
+MONFRI28362,220,MONFRI,"Semenyih Sentral, Jalan Semenyih Sentral 3",,1,,,0
+SAT28362,220,SAT,"Semenyih Sentral, Jalan Semenyih Sentral 3",,1,,,0
+SUN28362,220,SUN,"Semenyih Sentral, Jalan Semenyih Sentral 3",,1,,,0
+MONFRI28363,63,MONFRI,Subang Parade,,0,,28363,0
+SAT28363,63,SAT,Subang Parade,,0,,28363,0
+SUN28363,63,SUN,Subang Parade,,0,,28363,0
+MONFRI28364,63,MONFRI,USJ 8,,1,,28364,0
+SAT28364,63,SAT,USJ 8,,1,,28364,0
+SUN28364,63,SUN,USJ 8,,1,,28364,0
+MONFRI28365,65,MONFRI,Stesen KTM Batu 3,,0,,,0
+SAT28365,65,SAT,Stesen KTM Batu 3,,0,,,0
+SUN28365,65,SUN,Stesen KTM Batu 3,,0,,,0
+MONFRI28366,65,MONFRI,Hentian Bandar Shah Alam,,1,,,0
+SAT28366,65,SAT,Hentian Bandar Shah Alam,,1,,,0
+SUN28366,65,SUN,Hentian Bandar Shah Alam,,1,,,0
+MONFRI28367,155,MONFRI,Bangsar Park,,0,,,0
+SAT28367,155,SAT,Bangsar Park,,0,,,0
+SUN28367,155,SUN,Bangsar Park,,0,,,0
+MONFRI28368,155,MONFRI,Pasar Seni,,1,,,0
+SAT28368,155,SAT,Pasar Seni,,1,,,0
+SUN28368,155,SUN,Pasar Seni,,1,,,0
+MONFRI69984,221,MONFRI,"Hab Bas, Lebuh Pudu",,0,,,0
+SAT69984,221,SAT,"Hab Bas, Lebuh Pudu",,0,,,0
+SUN69984,221,SUN,"Hab Bas, Lebuh Pudu",,0,,,0
+MONFRI69985,221,MONFRI,"Flat Taman Pinggiran, Lebuh Pinggiran",,1,,69985,0
+SAT69985,221,SAT,"Flat Taman Pinggiran, Lebuh Pinggiran",,1,,69985,0
+SUN69985,221,SUN,"Flat Taman Pinggiran, Lebuh Pinggiran",,1,,69985,0
+MONFRI69986,222,MONFRI,Pasar Seni,,0,,69986,0
+SAT69986,222,SAT,Pasar Seni,,0,,69986,0
+SUN69986,222,SUN,Pasar Seni,,0,,69986,0
+MONFRI69987,222,MONFRI,"Pantai Dalam 22, Jalan Pantai Dalam",,1,,,0
+SAT69987,222,SAT,"Pantai Dalam 22, Jalan Pantai Dalam",,1,,,0
+SUN69987,222,SUN,"Pantai Dalam 22, Jalan Pantai Dalam",,1,,,0
+MONFRI69988,223,MONFRI,Cyberjaya Terminal Transport,,0,,,0
+SAT69988,223,SAT,Cyberjaya Terminal Transport,,0,,,0
+SUN69988,223,SUN,Cyberjaya Terminal Transport,,0,,,0
+MONFRI69989,223,MONFRI,Lim Kok Wing Universiti,,1,,,0
+SAT69989,223,SAT,Lim Kok Wing Universiti,,1,,,0
+SUN69989,223,SUN,Lim Kok Wing Universiti,,1,,,0
+MONFRI69990,224,MONFRI,Cyberjaya Terminal Transport,,0,,69990,0
+SAT69990,224,SAT,Cyberjaya Terminal Transport,,0,,69990,0
+SUN69990,224,SUN,Cyberjaya Terminal Transport,,0,,69990,0
+MONFRI69991,224,MONFRI,Cybejaya Park & Ride,,1,,,0
+SAT69991,224,SAT,Cybejaya Park & Ride,,1,,,0
+SUN69991,224,SUN,Cybejaya Park & Ride,,1,,,0
