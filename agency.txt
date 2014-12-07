@@ -1,2 +1,2 @@
 agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone
-myrapidkl,MYrapid Kuala Lumpur,http://myrapid.com.my/,Asia/Kuala_Lumpur,,test 2
+myrapidkl,MYrapid Kuala Lumpur,http://myrapid.com.my/,Asia/Kuala_Lumpur,,test 3
